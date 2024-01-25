@@ -1,0 +1,6 @@
+.card-wrapper {
+    display: flex;
+    flex: 1px;
+    height: calc(100vh - 3rem);
+    background: #F0F0F0;
+}
